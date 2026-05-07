@@ -40,8 +40,8 @@ If you believe in creating a safer internet for the next generation, feel free t
 <br />
 
 <!-- Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dictator5869&theme=react-dark&area=true&hide_border=true" width="100%" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00f2ff&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Dictator5869&color=00f2ff&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </div>
