@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Waving Banner -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00f2ff&height=250&section=header&text=Welcome%20to%20my%20Hub&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+ <img src="https://ishan-rest.vercel.app/svg/banner/hacker2/Dictator5869" width="100%" alt="Neon Banner" />
 
   <br />
 
