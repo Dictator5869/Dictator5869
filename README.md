@@ -33,9 +33,9 @@
 ### 💖 Support My Work
 If you believe in creating a safer internet for the next generation, feel free to support the journey:
 
-<a "https://ko-fi.com/Dictator5869">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+You can support me on Ko-fi – no account needed, and it keeps both of us private!
+
+[![Ko-fi](https://img.shields.io/badge/Donate-Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Dictator5869)
 
 <br />
 
