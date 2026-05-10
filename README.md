@@ -33,7 +33,7 @@
 ### 💖 Support My Work
 If you believe in creating a safer internet for the next generation, feel free to support the journey:
 
-<a href="https://www.buymeacoffee.com/Dictator5869">
+<a "https://ko-fi.com/Dictator5869">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
