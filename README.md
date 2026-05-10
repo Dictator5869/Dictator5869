@@ -35,7 +35,13 @@ If you believe in creating a safer internet for the next generation, feel free t
 
 You can support me on Ko-fi – no account needed, and it keeps both of us private!
 
-[![Ko-fi](https://img.shields.io/badge/Donate-Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Dictator5869)
+<div class="center">
+      <div class="btn-container">
+        <a href="https://ko-fi.com/Dictator5869" target="_blank">
+            <img src="https://img.shields.io/badge/Donate-Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
+        </a>
+    </div>
+</div>
 
 <br />
 
