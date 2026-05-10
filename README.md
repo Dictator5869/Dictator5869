@@ -31,9 +31,7 @@
 ---
 
 ### 💖 Support My Work
-If you believe in creating a safer internet for the next generation, feel free to support the journey:
-
-You can support me on Ko-fi – no account needed, and it keeps both of us private!
+If you believe in creating a safer internet for the next generation, feel free to support the journey:<br />You can support me on Ko-fi – no account needed, and it keeps both of us private!
 
 <div class="center">
       <div class="btn-container">
@@ -41,13 +39,4 @@ You can support me on Ko-fi – no account needed, and it keeps both of us priva
             <img src="https://img.shields.io/badge/Donate-Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
         </a>
     </div>
-</div>
-
-<br />
-
-<!-- Animated Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dictator5869&theme=react-dark&area=true&hide_border=true" width="100%" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dictator5869&color=00f2ff&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </div>
