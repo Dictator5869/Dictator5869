@@ -43,7 +43,7 @@
 
 ### 🚀 Active Projects
 
-* **[SimpleLauncher](https://github.com/YKno/SimpleLauncher):** An open-source, user-friendly Windows desktop launcher built with C# focused on a child-friendly experience.
+* **[SimpleLauncher](https://github.com//Dictator5869/SimpleLauncher):** An open-source, user-friendly Windows desktop launcher built with C# focused on a child-friendly experience.
 * **Custom Utilities:** Various C# desktop tools for system tray management, audio routing, and workflow automation.
 
 ---
