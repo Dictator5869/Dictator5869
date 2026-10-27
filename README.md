@@ -15,7 +15,7 @@
 ### 💻 About Me
 * 👨‍👧 **Father & Creator:** Inspired by fatherhood to build practical, child-safe applications, simplified interfaces, and safer digital environments for kids.
 * 🛠️ **Background:** Started with custom Discord bots for gaming communities, evolving into building robust desktop utilities, automation scripts, and standalone applications.
-* 🤖 **AI Collaboration:** I leverage AI as a team member for troubleshooting, bouncing ideas, and refining logic—never raw, unreviewed "vibe coding." I write and own the code.
+* 🤖 **AI Collaboration:** I leverage AI for troubleshooting, bouncing ideas, and refining logic — never raw, unreviewed "vibe coding."... I write and review the code.
 
 ---
 
