@@ -39,7 +39,14 @@
 
 ### 💬 Connect & Community
 
-* Join the community or hang out on **[Discord](https://discord.gg/xXNPy25vm)**!
+* Join the community and hang out
+<br/><div align="center">
+   <div style="margin-top: 10px;">
+     <a href="https://discord.gg/xXNPy25vm" target="_blank">
+                <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
+            </a>
+        </div>
+  </div>
 
 ---
 
