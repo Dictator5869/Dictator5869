@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Neon Waving/Hacker Banner -->
+  <!-- Neon Waving/Hacker Banner (Keeps Dictator5869 functional link) -->
   <img src="https://ishan-rest.vercel.app/svg/banner/hacker2/Dictator5869" width="100%" alt="Neon Banner" />
 
   <br />
@@ -14,19 +14,8 @@
 
 ### 💻 About Me
 * 👨‍👧 **Father & Creator:** Inspired by fatherhood to build practical, child-safe applications, simplified interfaces, and safer digital environments for kids.
-* 🛠️ **Background:** Started with custom Discord bots for gaming communities, evolving into building robust desktop utilities, automation scripts, and standalone applications under **YKnet**.
+* 🛠️ **Background:** Started with custom Discord bots for gaming communities, evolving into building robust desktop utilities, automation scripts, and standalone applications.
 * 🤖 **AI Collaboration:** I leverage AI as a team member for troubleshooting, bouncing ideas, and refining logic—never raw, unreviewed "vibe coding." I write and own the code.
-
-<details>
-<summary><b>📖 Click to read the full story behind YKno & YKnet</b></summary>
-
-<br>
-
-* **Why "YKno"?** Back when building websites, I operated as *YKno-Tech*—working backward from the slogan *"Why know tech when we know it for you?"* combined with a bit of rap lyric wordplay. It stuck.
-* **What is YKnet?** As projects grew past web design, I needed an umbrella brand for my software development. Keeping the name play—with a subtle nod to *Terminator's* Skynet—YKnet was born.
-* **Websites?** Not actively building them anymore, though the foundational skills remain when a project calls for it.
-
-</details>
 
 ---
 
@@ -43,7 +32,7 @@
 
 ### 🚀 Active Projects
 
-* **[SimpleLauncher](https://github.com//Dictator5869/SimpleLauncher):** An open-source, user-friendly Windows desktop launcher built with C# focused on a child-friendly experience.
+* **[SimpleLauncher](https://github.com/Dictator5869/SimpleLauncher):** An open-source, user-friendly Windows desktop launcher built with C# focused on a child-friendly experience.
 * **Custom Utilities:** Various C# desktop tools for system tray management, audio routing, and workflow automation.
 
 ---
@@ -59,7 +48,8 @@ If you believe in creating a safer internet for the next generation, feel free t
 
 <div align="center">
   <div style="margin-top: 10px;">
-    <a href="[https://ko-fi.com/YKno](https://ko-fi.com/Dictator5869)" target="_blank">
+    <!-- Ko-fi links back to Dictator5869 so support routes correctly -->
+    <a href="https://ko-fi.com/Dictator5869" target="_blank">
         <img src="https://img.shields.io/badge/Donate-Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
     </a>
   </div>
